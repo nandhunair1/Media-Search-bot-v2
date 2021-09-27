@@ -1,6 +1,6 @@
 # Modified Version Of [Media Search bot](https://github.com/Mahesh0253/Media-Search-bot)
 
-##Example Bot [Imdb Bot](https://t.me/Ma_autofilterbot)
+## Example Bot [Imdb Bot](https://t.me/Ma_autofilterbot)
 
 ## Added Features
 * Imdb posters for autofilter.
