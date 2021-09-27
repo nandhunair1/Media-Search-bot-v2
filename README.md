@@ -13,7 +13,7 @@
 * Ability to restrict groups(AUTH_GROUPS)
 
 
-##If Any Doubts Ask In [Update Channel](https://t.me/ErrorXbotz), [Support Group](https://t.me/ErrorXsupport)
+## If Any Doubts Ask In [Update Channel](https://t.me/ErrorXbotz), [Support Group](https://t.me/ErrorXsupport)
 
 ## Thank You For [Subinps](https://t.me/Subinps_bot)
 
