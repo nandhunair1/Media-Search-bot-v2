@@ -1,5 +1,7 @@
 # Modified Version Of [Media Search bot](https://github.com/Mahesh0253/Media-Search-bot)
 
+##Example Bot [Imdb Bot](https://t.me/Ma_autofilterbot)
+
 ## Added Features
 * Imdb posters for autofilter.
 * Custom captions for your files.
@@ -9,6 +11,12 @@
 * Once files saved in Database , exists until you manually deletes. (No Worry if post gets deleted from source channel.)
 * Added Force subscribe (Only channel subscribes can use the bot)
 * Ability to restrict groups(AUTH_GROUPS)
+
+```
+##If Any Doubts Ask In [Update Channel](https://t.me/ErrorXbotz), [Support Group](https://t.me/ErrorXsupport)
+
+## Thank You For [Subinps](https://t.me/Subinps_bot)
+```
 
 ## Installation
 
@@ -80,9 +88,9 @@ logger - Get log file
 
 
 ## Support
-Contact Me On [Telegram](https://t.me/subinps_bot)
+Contact Me On [Telegram](https://t.me/Jinn_007)
 
-[Update Channel](https://t.me/subin_works)
+[Update Channel](https://t.me/ErrorXbotz)
 
 ## License
 Code released under [The GNU General Public License](LICENSE).
