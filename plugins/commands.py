@@ -67,7 +67,7 @@ async def start(bot, cmd):
                 buttons = [
                     [
                         InlineKeyboardButton('Search again', switch_inline_query_current_chat=''),
-                        InlineKeyboardButton('More Bots', url='https://t.me/Jinn_007')
+                        InlineKeyboardButton('More Bots', url='https://t.me/ErrorXbotz')
                     ]
                     ]
                 await bot.send_cached_media(
@@ -103,7 +103,7 @@ async def start(bot, cmd):
                         InlineKeyboardButton("Source Code", url='https://github.com/Jinn-Of-Telegram/Media-Search-bot-v2'),
                     ],
                        InlineKeyboardButton("Update Channel", url='https://t.me/ErrorXbotz'),
-                       InlineKeyboardButton("Support Group", url='https://t.me/ErrorXsupport')
+                       InlineKeyboardButton("Support Group", url='https://t.me/ErrorXsupport'),
                     [
                         InlineKeyboardButton("About", callback_data="about")
                     ]
