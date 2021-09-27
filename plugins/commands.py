@@ -97,17 +97,18 @@ async def start(bot, cmd):
             parse_mode="Markdown",
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
-                (
+                [
                     [
                         InlineKeyboardButton("Search Here", switch_inline_query_current_chat=''),
                         InlineKeyboardButton("Source Code", url='https://github.com/Jinn-Of-Telegram/Media-Search-bot-v2'),
                     ],
-                    [
+                   [
                        InlineKeyboardButton("Update Channel", url='https://t.me/ErrorXbotz'),
                        InlineKeyboardButton("Support Group", url='https://t.me/ErrorXsupport'),
                     ],
-                    [
-                        InlineKeyboardButton("About", callback_data="about") 
+                     [
+                        InlineKeyboardButton("About", callback_data="about")
+                    ]
                 ]
             )
         )
