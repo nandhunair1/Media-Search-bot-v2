@@ -15,8 +15,6 @@
 
 ## If Any Doubts Ask In [Update Channel](https://t.me/ErrorXbotz), [Support Group](https://t.me/ErrorXsupport)
 
-## Thank You For [Subinps](https://t.me/Subinps_bot)
-
 ## Installation
 
 ### Easy Way
@@ -38,6 +36,9 @@ pip3 install -r requirements.txt
 python3 bot.py
 ```
 Check [`sample_info.py`](sample_info.py) before editing [`info.py`](info.py) file
+
+
+## Thank You For [Subinps](https://t.me/Subinps_bot)
 
 ## Variables
 
